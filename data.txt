@@ -1,0 +1,350 @@
+Walmart
+Retail
+$559,200
+$19,742
+
+United States
+------------------
+Amazon
+Retail
+$386,100
+$17,377
+2,345      
+United States
+------------------
+State Grid
+Electricity
+$383,906
+$7,970
+907,677
+China
+------------------
+China National Petroleum
+Oil and gas
+$379,130
+$4,433
+1,344,410
+China
+------------------
+Royal Dutch Shell
+Oil and gas
+$344,379
+$15,842
+83,000
+Netherlands
+------------------
+Saudi Aramco
+Oil and gas
+$329,784
+$88,211
+79,000
+Saudi Arabia
+------------------
+Sinopec Group
+Oil and gas
+$314.4
+$6,793
+582,648
+China
+------------------
+Volkswagen
+Automotive
+$282,760
+$15,542
+671,205
+Germany
+------------------
+BP
+Oil and gas
+$282,610
+$4,026
+72,500
+United Kingdom
+------------------
+Toyota
+Automotive
+$275,288
+$19,096
+359,542
+Japan
+------------------
+Apple
+Electronics
+$274,515
+$63,930
+137,000
+United States
+------------------
+CVS
+Health	Healthcare
+$268,706
+$6,634
+290,000
+United States
+------------------
+ExxonMobil
+Oil and gas
+$264,938
+$14,340
+74,900
+United States
+------------------
+UnitedHealth
+Healthcare
+$257.141
+$13,839
+325,000
+United States
+------------------
+Berkshire Hathaway
+Financials
+$254,616
+$81,417
+391,500
+United States
+------------------
+McKesson
+Healthcare
+$231,051
+$900
+70,000
+United States
+------------------
+Glencore
+Commodities
+$215,111
+$404
+88,246
+Switzerland
+------------------
+China State Construction
+Construction
+$205,839
+$3,333
+335,038
+China
+------------------
+Samsung Electronics
+Electronics
+$197,705
+$18,453
+287,439
+South Korea
+------------------
+Daimler
+Automotive
+$193,346
+$2,661
+298,655
+Germany
+------------------
+Ping An Insurance
+Financials
+$184,280
+$21,627
+372,194
+China
+------------------
+Alphabet
+Conglomerate
+$182,530
+$34,343
+118,899
+United States
+------------------
+AT&T
+Telecommunications
+$181,193
+$13,903
+247,800
+United States
+------------------
+AmerisourceBergen
+Healthcare
+$179,589
+$855
+21,500
+United States
+------------------
+ICBC
+Financials
+$177,069
+$45,194
+445,106
+China
+------------------
+Total
+Oil and gas
+$176,249
+$11,267
+107,776
+France
+------------------
+Foxconn
+Electronics
+$172,869
+$3,731
+754,404
+Taiwan
+------------------
+Trafigura
+Commodities
+$171,474
+$872
+5,106
+Singapore
+------------------
+Exor
+Holding company
+$162,754
+$3,417
+268,979
+Netherlands
+------------------
+Cigna
+Healthcare
+$160.400
+$5,104
+73,700
+United States
+------------------
+China Construction
+Bank Financials
+$158,884
+$38,610
+370,169
+China
+------------------
+Ford
+Automotive
+$155,900
+$47
+190,000
+United States
+------------------
+Costco
+Retail
+$152,703
+$3,659
+201,500
+United States
+------------------
+AXA
+Financials
+$148,984
+$4,317
+99,843
+France
+------------------
+Agricultural Bank of China
+Financials
+$147,313
+$30,701
+467,631
+China
+------------------
+Chevron
+Oil and gas
+$146,516
+$2,924
+48,200
+United State
+------------------
+Cardinal Health
+Healthcare
+$145,534
+$1,363
+49,500
+United States
+------------------
+Microsoft
+Information technology
+$143,000
+$39,420
+144,000
+United States
+------------------
+JPMorgan Chase
+Financials
+$142,422
+$36,431
+256,981
+United States
+------------------
+Honda
+Automotive
+$137,332
+$4,192
+218,674
+Japan
+------------------
+General Motors
+Automotive
+$137,237
+$6,732
+164,000
+United States
+------------------
+Walgreens Boots Alliance
+Retail
+$136,866
+$3,982
+287,000
+United States
+------------------
+Mitsubishi
+Conglomerate
+$135,940
+$4,924
+86,098
+Japan
+------------------
+Bank of China
+Financials
+$135,091
+$27,127
+309,384
+China
+------------------
+Verizon
+Telecommunications
+$131,244
+$19,265
+135,000
+United States
+------------------
+China Life Insurance
+Insurance
+$131,244
+$4,660
+180,401
+China
+------------------
+Allianz
+Financials
+$130,359
+$8,858
+147,268
+Germany
+------------------
+Marathon Petroleum
+Oil and gas
+$124,813
+$2,637
+60,910
+United States
+------------------
+Huawei
+Electronics
+$124,316
+$9,062
+194,000
+China
+------------------
+China Railway Engineering Corporation
+Construction
+$123,324
+$1,535
+302,394
+China
+------------------
